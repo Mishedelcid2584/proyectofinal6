@@ -1,4 +1,10 @@
 /* styles.css */
+
+.nuevo-item img {
+    max-width: 200px;
+    width: 100%;
+    border-radius: 10px;
+    
 header {background-color: #005187;
     color: white;
     font-size: 40px;
@@ -121,7 +127,7 @@ height: Fixed (40px);}
 }
 
 .nuevo-item img {
-    max-width: 250px;
+    min-width: 200px;
     width: 100%;
     border-radius: 10px;
 }
@@ -170,9 +176,17 @@ color: #4D82BC;}
 .footer li {
     margin: 5px 0;
 }
-  
+
+/*MEDIA QUIERES*/
+
+@media only screen and (min-width:380px) 
+{ 
+
+    
+
+    
   /* Estilo para pantallas de dispositivos móviles */
-  @media screen and (max-width: 360px) and (min-height:2803px){
+  @media screen and (max-width: 300px) and (min-height:2803px){
     body {
       background-color: #003366; /* Fondo diferente para distinguir */
       padding: 10px;
