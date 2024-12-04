@@ -181,16 +181,16 @@ color: #4D82BC;}
         margin-top:0;
         width: 90%; } 
     
-  .nav-tabs {
-    display: flex;
-    justify-content: center;
-    background-color: #4D82BC;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-      
-      .nav-tabs li {
-    margin: 0 ;
+ .nav-tabs {
+        flex-direction: column; 
+        align-items: center;    
+    }
+
+    .nav-tabs li {
+        width: 100%;           
+        text-align: center;     
+        padding: 15px;          
+    }
 }
     .h1{   font-size: 20px;}
     
