@@ -182,7 +182,7 @@ color: #4D82BC;}
         width: 90%; } 
     
  .nav-tabs {
-        flex-direction: column; 
+        display:flex; 
         align-items: center;    
     }
 
