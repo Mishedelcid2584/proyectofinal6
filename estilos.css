@@ -177,7 +177,7 @@ color: #4D82BC;}
 @media only screen and (min-width:380px) 
 { 
     body {
-      padding: 10px;
+    
         margin: auto;
         margin-top:0;
         width: 90%; } 
@@ -186,7 +186,7 @@ color: #4D82BC;}
 @media only screen and (min-width:1280px)
 { 
     body {
-      padding: 10px;
+    
         margin: auto;
         margin-top:0;
         width: 100%; } 
