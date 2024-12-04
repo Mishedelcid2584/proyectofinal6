@@ -182,6 +182,8 @@ color: #4D82BC;}
         width: 90%; } 
     .nav-tabs {
    width: 90%;
+    .nav-tabs li {
+    margin: 0 5px;
 }
     .h2{   font-size: 20px;}
     
