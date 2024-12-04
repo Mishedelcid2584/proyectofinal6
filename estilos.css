@@ -179,7 +179,17 @@ color: #4D82BC;}
     body {
       padding: 10px;
         margin: auto;
+        margin-top:0;
         width: 90%; } 
+}
+
+@media only screen and (min-width:1280px)
+{ 
+    body {
+      padding: 10px;
+        margin: auto;
+        margin-top:0;
+        width: 100%; } 
 }
    
  
