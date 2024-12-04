@@ -159,6 +159,7 @@ color: #4D82BC;}
 .footer {
     background-color: #003366;
     text-align: center;
+    font-size: 10px;
     padding: 20px 0;
     color: white;
 }
