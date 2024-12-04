@@ -177,10 +177,9 @@ color: #4D82BC;}
 @media only screen and (min-width:380px) 
 { 
     body {
-      background-color: #003366; /* Fondo diferente para distinguir */
       padding: 10px;
         margin: auto;
-                width: 90%; } 
+        width: 90%; } 
 }
    
  
