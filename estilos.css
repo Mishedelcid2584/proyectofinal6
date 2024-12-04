@@ -1,5 +1,14 @@
 /* styles.css */
 
+/*MEDIA QUIERES*/
+
+@media only screen and (min-width:380px) 
+{ 
+    #novedades {padding:auto;
+           margin top:auto;
+                background-color: beige;}
+
+
 header {background-color: #005187;
     color: white;
     font-size: 40px;
