@@ -1,13 +1,4 @@
 /* styles.css */
-
-/*MEDIA QUIERES*/
-
-@media only screen and (min-width:380px) 
-{ 
-  .nuevo-item {width: 100px}
-}
-
-
 header {background-color: #005187;
     color: white;
     font-size: 40px;
@@ -130,7 +121,7 @@ height: Fixed (40px);}
 }
 
 .nuevo-item img {
-    max-width: 300px;
+    max-width: 100px;
     width: 100%;
     border-radius: 10px;
 }
